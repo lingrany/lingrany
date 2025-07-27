@@ -6,7 +6,10 @@
 </picture>
 
 ---
-
+### Hi, I'm lingrany 🏝️
+- 🌍 Aspiring digital nomad
+- ⚛️ React & TypeScript enthusiast
+- 
 ### 🚀 About Me
 - 🎓 普通二本 → 前端自学 ing  
 - 🎯 目标：全栈工程师 + 数字游民  
