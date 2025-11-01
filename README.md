@@ -11,7 +11,7 @@
 - ⚛️ React & TypeScript enthusiast
 - 
 ### 🚀 About Me
-- 🎓 普通二本 → 前端自学 ing  
+- 🎓 STEM本科毕业  
 - 🎯 目标：全栈工程师 + 数字游民  
 - 🛠️ React / TypeScript / Node / Prisma / PostgreSQL  
 - 💬 正在持续接单，欢迎远程合作：lingrany@pm.me  
